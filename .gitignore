@@ -1,0 +1,4 @@
+# Files not saved to github
+node_modules/
+config/
+.nvmrc
