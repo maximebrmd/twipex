@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "axios": "^0.21.0",
+    "esm": "^3.2.25",
+    "tmi.js": "^1.5.0"
+  },
+  "name": "twipex",
+  "description": "A Twitch bot using tracker.gg Apex Legends API",
+  "version": "1.0.0",
+  "main": "src",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximebrmd/twipex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maximebrmd/twipex/issues"
+  },
+  "homepage": "https://github.com/maximebrmd/twipex#readme"
+}
